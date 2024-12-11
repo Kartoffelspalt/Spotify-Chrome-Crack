@@ -1,6 +1,6 @@
 # Spotify Crack - Chrome App
 
-> What's new: Removed all ads, skip ads & removed premium upgrade button 🎉
+> What's new: Removed all ads & skip ads 🎉
 
 
 ![image](https://user-images.githubusercontent.com/13378059/109779378-dc420f00-7c40-11eb-8542-e35e9ce022ed.png)
