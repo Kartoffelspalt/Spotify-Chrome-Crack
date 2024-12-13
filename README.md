@@ -17,7 +17,8 @@
 6. Open Spotify as App
 
 ##
-Used From: @sooxt98
 
 ## Notes
 ### You can ignore error that currently appear in chrome like invalid-url or anything like this. The Plugin will work fine.
+
+Used From: @sooxt98
